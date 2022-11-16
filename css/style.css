@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.border-balck{
+    outline: 1px solid black;
+}
+
+header{
+    background-color: rgba(44,62,80,255);
+    color: white;
+}
+
+#jumbo{
+    background-color: rgba(26,188,156,255);
+}

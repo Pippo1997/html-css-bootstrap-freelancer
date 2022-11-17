@@ -11,17 +11,17 @@
 
 /*************** BACKGROUND-COLOR ***************/
 
-#blue{
+.blue{
     background-color: rgba(44,62,80,255);
     color: white;
 }
 
-#aqua{
+.aqua{
     background-color: rgba(26,188,156,255);
     color: white;
 }
 
-#lightblue{
+.lightblue{
     background-color: rgba(58,84,109,255);
     color: white;
 }

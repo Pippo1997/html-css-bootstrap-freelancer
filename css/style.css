@@ -8,7 +8,7 @@
     outline: 1px solid black;
 }
 
-/*************** background-color ***************/
+/*************** BACKGROUND-COLOR ***************/
 
 #blue{
     background-color: rgba(44,62,80,255);
@@ -22,4 +22,18 @@
 
 #lightblue{
     background-color: rgba(58,84,109,255);
+}
+
+/*************** CONTENT ***************/
+
+header{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 75px;
+}
+
+.jumbo{
+    margin-top: 75px;
 }

@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .border-balck{
@@ -22,6 +23,7 @@
 
 #lightblue{
     background-color: rgba(58,84,109,255);
+    color: white;
 }
 
 /*************** CONTENT ***************/
@@ -36,4 +38,17 @@ header{
 
 .jumbo{
     margin-top: 75px;
+}
+
+.jumbo_img{
+    width: 30%;
+}
+
+.section_img{
+    width: 100%;
+}
+
+.fa-brands{
+    padding: 5px;
+    font-size: 25px;
 }

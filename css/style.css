@@ -50,6 +50,6 @@ header{
     font-size: 25px;
 }
 
-input{
-    outline: none;
+.fa-bars{
+    color: white;
 }
